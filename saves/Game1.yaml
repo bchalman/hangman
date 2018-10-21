@@ -1,0 +1,16 @@
+---
+- humour
+- 2
+- - _
+  - u
+  - _
+  - o
+  - u
+  - _
+- !ruby/object:Player
+  guesses:
+  - a
+  - e
+  - i
+  - o
+  - u
